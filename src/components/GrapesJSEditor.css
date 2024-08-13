@@ -1,0 +1,19 @@
+.gjs-editor {
+  height: 100vh;
+}
+.panel__top {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #fafafa;
+  border-bottom: 1px solid #ddd;
+}
+.panel__devices {
+  display: flex;
+}
+.panel__devices button {
+  margin-right: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
